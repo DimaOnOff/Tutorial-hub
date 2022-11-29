@@ -25,3 +25,5 @@ __Привет из ветки DmitryLo__
 ~~Ругательства~~
 
 ![]Images.jpg
+
+[def]: Photo.jpg
