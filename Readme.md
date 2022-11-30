@@ -26,4 +26,7 @@ __Привет из ветки DmitryLo__
 
 ![]Images.jpg
 
-[def]: Photo.jpg
+[def]: (Photo.jpg)
+
+
+Привет с моего  Локального PC
